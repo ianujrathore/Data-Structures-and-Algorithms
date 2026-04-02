@@ -65,3 +65,30 @@ Largest Element, Second Largest, Check Sorted, Remove Duplicates, Left Rotate, M
 - If problem asks to **move / rotate / rearrange** → in-place logic
 
 ---
+
+## 📊 Arrays (Medium)
+**Definition:** Medium-level array problems focus on **optimization, pattern recognition, and efficient traversal techniques**.
+
+**Problems:**  
+Two Sum, Sort an Array of 0's 1's and 2's, Majority Element-I, Kadane’s Algorithm, Print Maximum Subarray, Stock Buy and Sell, Rearrange Array by Sign, Next Permutation, Leaders in an Array, Longest Consecutive Sequence, Set Matrix Zeroes, Rotate Matrix by 90°, Spiral Matrix, Count Subarrays with Given Sum
+
+**Key Concepts / Algorithms:**  
+- Hashing
+- Two Pointers
+- Dutch National Flag Algorithm
+- Boyer-Moore Voting Algorithm
+- Kadane’s Algorithm
+- Prefix Sum
+- Greedy Approach
+- Matrix Traversal
+- In-place Modification
+
+**Pattern Recognition:**  
+- If problem asks for **target pair / lookup** → use hashing
+- If array contains only **0,1,2** → use Dutch National Flag
+- If problem asks for **majority frequency** → use Boyer-Moore
+- If problem asks for **maximum subarray / best profit** → think Kadane / greedy
+- If problem asks for **subarray count / sum** → use prefix sum + hashing
+- If matrix problem asks for **transformation / traversal** → use row-column logic
+- If permutation / ordering problem appears → think pivot + reverse
+- If problem asks for **next greater arrangement** → use next permutation logic
